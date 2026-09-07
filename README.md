@@ -1,6 +1,6 @@
-# Hi, I'm Shagun Pundir 👋
+# Hey there!, I'm Shagun Pundir. 
 
-### B.Tech CSE Student · Aspiring Software Developer
+# B.Tech CSE Student · Aspiring Software Developer
 
 I'm a Computer Science student passionate about learning how technology can solve real-world problems.
 
@@ -68,10 +68,6 @@ while (learning) {
 ```
 
 <br>
-
-## 🤝 Connect With Me
-
-[LinkedIn](www.linkedin.com/in/shagun8809) · [Email](shagunpundir8809@gmail.com)
 
 <br>
 
