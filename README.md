@@ -1,178 +1,82 @@
-<!-- ===================================================== -->
+# Hi, I'm Shagun Pundir 👋
 
-<!--                    SHAGUN PUNDIR                      -->
+### B.Tech CSE Student · Aspiring Software Developer
 
-<!-- ===================================================== -->
+I'm a Computer Science student passionate about learning how technology can solve real-world problems.
 
-<h1 align="center">Hey there, I'm Shagun 👋</h1>
+Currently, I'm focused on **Data Structures & Algorithms** and **Web Development**, while also exploring **Artificial Intelligence** and building projects along the way.
 
-<p align="center">
-  <b>A B.Tech CSE Student building her way into Software Development.</b>
-</p>
+<br>
 
-<p align="center">
-  <i>Learning → Building → Breaking → Fixing → Growing 🚀</i>
-</p>
+## 👩‍💻 About Me
 
-<br/>
+* 🎓 B.Tech student specializing in Computer Science
+* 🧠 Currently strengthening my problem-solving skills through DSA
+* 🌐 Building projects and exploring modern web technologies
+* 🤖 Interested in Artificial Intelligence and innovative technology
+* 🚀 Learning by building, experimenting, and improving every day
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Learning+Data+Structures+%26+Algorithms;Building+Projects+with+Code;Exploring+Web+Development+%26+AI" />
-</p>
+<br>
 
----
+## 🛠️ Tech Stack
 
-## ✦ `whoami`
+**Languages**
 
-```cpp
-class ShagunPundir {
-public:
+`C++` · `JavaScript` · `HTML` · `CSS`
 
-    string role = "B.Tech CSE Student";
-    
-    vector<string> currentlyLearning = {
-        "Data Structures & Algorithms",
-        "Web Development"
-    };
+**Development**
 
-    vector<string> exploring = {
-        "Artificial Intelligence",
-        "Real-World Problem Solving"
-    };
+`React` · `Node.js` · `Tailwind CSS` · `Bootstrap`
 
-    string mindset = "Learn. Build. Improve. Repeat.";
-};
+**Tools**
+
+`Git` · `GitHub` · `VS Code`
+
+<br>
+
+## 📌 What I'm Working On
+
+```text id="x2d9kp"
+→ Strengthening Data Structures & Algorithms
+→ Building practical web development projects
+→ Exploring Artificial Intelligence
+→ Improving problem-solving skills
+→ Preparing for hackathons and new challenges
 ```
 
----
+<br>
 
-## 🧭 My Current Journey
+## 📂 Explore My Work
 
-```text
-                     ┌─────────────────────┐
-                     │   LEARNING CODE     │
-                     └──────────┬──────────┘
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-             DSA          WEB DEVELOPMENT        AI
-              │                 │                 │
-        Problem Solving     Building Projects    Exploring
-              │                 │                 │
-              └─────────────────┼─────────────────┘
-                                │
-                         🚀 KEEP EVOLVING
-```
+Here you'll find:
 
----
+* **DSA solutions** and my problem-solving journey
+* **Web development projects**
+* **Hackathon ideas and projects**
+* Experiments as I explore new technologies
 
-## ⚡ Tech I'm Working With
+<br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,mongodb,tailwind,bootstrap,git,github,vscode&perline=6" />
-</p>
+## 🌱 Currently Learning
 
----
-
-## 🧠 Currently in My `main()`
-
-```cpp
-int main() {
-
-    while(true) {
-
-        learn();
-
-        build();
-
-        solveProblems();
-
-        improve();
-
-    }
-
-    return 0;
+```cpp id="9cs8br"
+while (learning) {
+    practice();
+    build();
+    improve();
 }
 ```
 
----
+<br>
 
-## 🚀 Things You'll Find Here
+## 🤝 Connect With Me
 
-```text
-📂 DSA Practice
-   └── C++ solutions and problem-solving journey
+[LinkedIn](www.linkedin.com/in/shagun8809) · [Email](shagunpundir8809@gmail.com)
 
-🌐 Web Development
-   └── Projects built while learning modern technologies
-
-🤖 AI Exploration
-   └── Experiments, ideas and future projects
-
-💡 Hackathon Projects
-   └── Turning interesting problems into working solutions
-```
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=7F3FBF&text_color=888888&icon_color=7F3FBF" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=7F3FBF&text_color=888888"/>
-
-</p>
-
----
-
-## 🎯 2026 Mission
-
-```text
-[✓] Build a strong programming foundation
-[✓] Learn modern web development
-[→] Strengthen DSA & problem-solving
-[→] Build meaningful projects
-[→] Participate in hackathons
-[→] Keep learning something new
-```
-
----
-
-## 💭 My Philosophy
-
-> "You don't need to know everything to start.
-> You just need to start to learn everything."
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-</p>
+<br>
 
 ---
 
 <p align="center">
-
-### `while(alive) { learn(); build(); evolve(); }`
-
-⭐ **Thanks for stopping by! Feel free to explore my repositories.**
-
+  <i>Learning. Building. Evolving.</i>
 </p>
